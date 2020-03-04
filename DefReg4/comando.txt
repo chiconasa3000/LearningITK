@@ -1,0 +1,1 @@
+./DefReg4 ../Data/BrainProtonDensitySliceBorder20.png ../Data/BrainProtonDensitySliceBSplined10.png ../DefReg4/results/outputImage.png ../DefReg4/results/difAfterReg.png ../DefReg4/results/difBeforeReg.png ../DefReg4/results/deformationField.mha

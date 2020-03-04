@@ -1,0 +1,2 @@
+./BsplineWarping1 ../Data/BSplineDisplacements1.txt ../Data/BrainProtonDensitySliceBorder20.png ../Data/BrainProtonDensitySliceBorder20.png ../BSplineWarping1/results/deformedImage.png ../BSplineWarping1/results/deformField.mha ../BSplineWarping1/results/transfFile.txt
+

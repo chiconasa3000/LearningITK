@@ -1,0 +1,2 @@
+./BsplineWarping2 ../Data/BSplineDisplacements2.txt ../Data/brainweb1e1a10f20.mha ../Data/brainweb1e1a10f20.mha ../BSplineWarping2/results/defMovingImage.mha ../BSplineWarping2/results/defField.mha ../BSplineWarping2/results/tranfFile.txt
+

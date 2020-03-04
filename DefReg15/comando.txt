@@ -1,0 +1,2 @@
+./DefReg15 ../Data/brainweb1e1a10f20.mha ../Data/BSplinedTranlatedScaledRotated.mha ../DefReg15/results/outputImage.mha ../DefReg15/results/diffAfterReg.mha ../DefReg15/results/diffBeforeReg.mha ../DefReg15/results/finalParameters.txt 1 1 ../DefReg15/results/deformField.mha 5 8 10.0 50
+

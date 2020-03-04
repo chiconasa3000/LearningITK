@@ -1,0 +1,1 @@
+./DefReg13 ../Data/BrainProtonDensitySliceBorder20.png ../Data/BSplineWarping1Test.png ../DefReg13/results/outputImage.png ../DefReg13/results/difAfterReg.png ../DefReg13/results/difBeforeReg.png ../DefReg13/results/defField.mha 1 1 ../DefReg13/results/finalParams.txt

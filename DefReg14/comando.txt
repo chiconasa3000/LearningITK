@@ -1,0 +1,2 @@
+./DefReg14 ../Data/brainweb1e1a10f20.mha ../Data/BSplineWarping2Test.mha ../DefReg14/results/outputImage.mhd ../DefReg14/results/difAfterReg.mhd ../DefReg14/results/difBeforeReg.mhd ../DefReg14/results/defField.mhd 1 1 ../DefReg14/results/finalParams.txt 8 10.0 50
+
